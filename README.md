@@ -4,7 +4,7 @@ SCSA 테스트를 위한 python 문제풀이 레포지토리입니다.
 
 ### 사전과제
 #### 입출력
-<br> [A+B](백준/Bronze/1000. A＋B)
+<br> [A+B](https://github.com/Vida0822/Programmers/tree/main/백준/Bronze/1000. A＋B)
 <br> [꼬마 정민](백준/Bronze/11382. 꼬마 정민)
 
 #### 조건문
