@@ -64,7 +64,7 @@ SCSA 테스트를 위한 python 문제풀이 레포지토리입니다.
 <br> [덩치](https://github.com/Vida0822/Programmers/tree/main/백준/Silver/7568. 덩치)
 <br> [균형잡힌 세상](https://github.com/Vida0822/Programmers/tree/main/백준/Silver/4949. 균형잡힌 세상)
 <br> [벚꽃이 정보섬에 피어난 이유](https://github.com/Vida0822/Programmers/tree/main/백준/Silver/17127. 벚꽃이 정보섬에 피어난 이유)
-<br> [연속부분최대곱](https://github.com/Vida0822/Programmers/tree/main/백준/Silver/2670. 연속부분최대곱) <br> 
+<br> [연속부분최대곱](https://github.com/Vida0822/Programmers/tree/main/백준/Silver/2670. 연속부분최대곱) 
 <br> [스위치 켜고 끄기](https://github.com/Vida0822/Programmers/tree/main/백준/Silver/1244. 스위치 켜고 끄기)
 
  
