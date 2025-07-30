@@ -6,7 +6,7 @@ SCSA 테스트를 위한 python 문제풀이 레포지토리입니다.
 #### 입출력
 [A+B](https://github.com/Vida0822/Programmers/tree/main/백준/Bronze/1000. A＋B)
 [꼬마 정민](https://github.com/Vida0822/Programmers/tree/main/백준/Bronze/11382. 꼬마 정민)
-<br> 
+ 
 
 #### 조건문
 [두 수 비교하기](https://github.com/Vida0822/Programmers/tree/main/백준/Bronze/1330. 두 수 비교하기)
@@ -15,7 +15,7 @@ SCSA 테스트를 위한 python 문제풀이 레포지토리입니다.
 [사분면 고르기](https://github.com/Vida0822/Programmers/tree/main/백준/Bronze/14681. 사분면 고르기)
 [알람 시계](https://github.com/Vida0822/Programmers/tree/main/백준/Bronze/2884. 알람 시계)
  [주사위 세개](https://github.com/Vida0822/Programmers/tree/main/백준/Bronze/2480. 주사위 세개)
- <br> 
+  
 #### 반복문
 [구구단](https://github.com/Vida0822/Programmers/tree/main/백준/Bronze/2739. 구구단)
  [A+B - 3](https://github.com/Vida0822/Programmers/tree/main/백준/Bronze/10950. A＋B － 3)
@@ -23,7 +23,7 @@ SCSA 테스트를 위한 python 문제풀이 레포지토리입니다.
  [A+B - 7](https://github.com/Vida0822/Programmers/tree/main/백준/Bronze/11021. A＋B － 7)
  [별 찍기 - 1](https://github.com/Vida0822/Programmers/tree/main/백준/Bronze/2438. 별 찍기 － 1)
  [별 찍기 - 2](https://github.com/Vida0822/Programmers/tree/main/백준/Bronze/2439. 별 찍기 － 2)
- <br> 
+  
  
 #### 1차원 
 [개수 세기](https://github.com/Vida0822/Programmers/tree/main/백준/Bronze/10807. 개수 세기)
@@ -35,7 +35,7 @@ SCSA 테스트를 위한 python 문제풀이 레포지토리입니다.
  [나머지](https://github.com/Vida0822/Programmers/tree/main/백준/Bronze/3052. 나머지)
  [바구니 뒤집기](https://github.com/Vida0822/Programmers/tree/main/백준/Bronze/10811. 바구니 뒤집기)
  [단어 공부](https://github.com/Vida0822/Programmers/tree/main/백준/Bronze/1157. 단어 공부)
- <br> 
+  
  
 #### 문자열
 [문자열](https://github.com/Vida0822/Programmers/tree/main/백준/Bronze/9086. 문자열)
@@ -47,14 +47,14 @@ SCSA 테스트를 위한 python 문제풀이 레포지토리입니다.
  [팰린드롬인지 확인하기](https://github.com/Vida0822/Programmers/tree/main/백준/Bronze/10988. 팰린드롬인지 확인하기)
  [크로아티아 알파](https://github.com/Vida0822/Programmers/tree/main/백준/Silver/2941. 크로아티아 알파벳)
  [그룹 단어 체커](https://github.com/Vida0822/Programmers/tree/main/백준/Silver/1316. 그룹 단어 체커)
- <br> 
+  
  
 #### 2차원
 [행렬 덧셈](https://github.com/Vida0822/Programmers/tree/main/백준/Bronze/2738. 행렬 덧셈)
  [최댓값](https://github.com/Vida0822/Programmers/tree/main/백준/Bronze/2566. 최댓값)
  [세로읽기](https://github.com/Vida0822/Programmers/tree/main/백준/Bronze/10798. 세로읽기)
  [색종이](https://github.com/Vida0822/Programmers/tree/main/백준/Silver/2563. 색종이)
-<br> 
+ 
 
 #### 연습
 [수 정렬하기(직접구현 하세요)](https://github.com/Vida0822/Programmers/tree/main/백준/Bronze/2750. 수 정렬하기)
@@ -71,7 +71,7 @@ SCSA 테스트를 위한 python 문제풀이 레포지토리입니다.
  [벚꽃이 정보섬에 피어난 이유](https://github.com/Vida0822/Programmers/tree/main/백준/Silver/17127. 벚꽃이 정보섬에 피어난 이유)
  [연속부분최대곱](https://github.com/Vida0822/Programmers/tree/main/백준/Silver/2670. 연속부분최대곱) 
  [스위치 켜고 끄기](https://github.com/Vida0822/Programmers/tree/main/백준/Silver/1244. 스위치 켜고 끄기)
-<br> 
+ 
  
 #### DFS 
 [DFS 템플릿](https://github.com/Vida0822/ALGORITHM_SCSA/wiki/DFS-%ED%85%9C%ED%94%8C%EB%A6%BF-(Recursive-Stack)) 
