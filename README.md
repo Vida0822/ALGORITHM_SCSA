@@ -1,7 +1,25 @@
 # ALGORITHM_SCSA
 SCSA 테스트를 위한 python 문제풀이 레포지토리입니다. 
 
+> [문제 풀이 루틴](https://github.com/Vida0822/ALGORITHM_SCSA/wiki/%EB%AC%B8%EC%A0%9C-%ED%92%80%EC%9D%B4-%EB%A3%A8%ED%8B%B4-(%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98)) 
 
+## 템플릿 정리 
+[BFS 템플릿](https://github.com/Vida0822/ALGORITHM_SCSA/wiki/%5B%EC%9C%A0%ED%98%95%5D-BFS-%ED%83%AC%ED%94%8C%EB%A6%BF)   <br> 
+[DFS 템플릿](https://github.com/Vida0822/ALGORITHM_SCSA/wiki/%5B%EC%9C%A0%ED%98%95%5D-DFS-%ED%85%9C%ED%94%8C%EB%A6%BF-(Recursive-Stack))   <br>
+[백트래킹 템플릿](https://github.com/Vida0822/ALGORITHM_SCSA/wiki/%5B%EC%9C%A0%ED%98%95%5D-%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9-(Back%E2%80%90Tracking)) <br>
+[DP 템플](https://github.com/Vida0822/ALGORITHM_SCSA/wiki/%5B%EC%9C%A0%ED%98%95%5D-DP-%ED%83%AC%ED%94%8C%EB%A6%BF) <br>
+[이진탐색 템플릿](https://github.com/Vida0822/ALGORITHM_SCSA/wiki/%5B%EC%9C%A0%ED%98%95%5D-%EC%9D%B4%EC%A7%84%ED%83%90%EC%83%89-%ED%85%9C%ED%94%8C%EB%A6%BF) 
+[기타 그래프](https://github.com/Vida0822/ALGORITHM_SCSA/wiki/%5B%EC%9C%A0%ED%98%95%5D-%EA%B8%B0%ED%83%80-%EA%B7%B8%EB%9E%98%ED%94%84)  <br> 
+
+* 시뮬레이션
+[시뮬레이션-그룹만들기](https://github.com/Vida0822/ALGORITHM_SCSA/wiki/%5B%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98%5D-%EA%B7%B8%EB%A3%B9-%EB%A7%8C%EB%93%A4%EA%B8%B0) <br>
+[시뮬레이션-달팽이](https://github.com/Vida0822/ALGORITHM_SCSA/wiki/%5B%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98%5D-%EB%8B%AC%ED%8C%BD%EC%9D%B4)  <br>
+[시뮬레이션-뱀](https://github.com/Vida0822/ALGORITHM_SCSA/wiki/%5B%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98%5D-%EB%B1%80)  <br>
+[시뮬레이션-삼투압](https://github.com/Vida0822/ALGORITHM_SCSA/wiki/%5B%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98%5D-%EC%82%BC%ED%88%AC%EC%95%95) <br>
+
+
+
+## 풀이 문제 
 ### 사전과제
 #### 입출력
 [A+B](https://github.com/Vida0822/Programmers/tree/main/백준/Bronze/1000. A＋B) / 
@@ -72,14 +90,15 @@ SCSA 테스트를 위한 python 문제풀이 레포지토리입니다.
  [연속부분최대곱](https://github.com/Vida0822/Programmers/tree/main/백준/Silver/2670. 연속부분최대곱) 
  [스위치 켜고 끄기](https://github.com/Vida0822/Programmers/tree/main/백준/Silver/1244. 스위치 켜고 끄기)
  
- 
-#### DFS 
-[DFS 템플릿](https://github.com/Vida0822/ALGORITHM_SCSA/wiki/DFS-%ED%85%9C%ED%94%8C%EB%A6%BF-(Recursive-Stack)) 
- 
- 
- 
- 
- 
+
+
+### 알고리즘 연습
+
+
+### 기출문제 (백준)
+
+
+### 기출문제 (코드트리)
  
  
  
