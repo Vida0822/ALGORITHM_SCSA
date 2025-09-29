@@ -3,6 +3,8 @@ SCSA 테스트를 위한 python 문제풀이 레포지토리입니다.
 
 > [문제 풀이 루틴](https://github.com/Vida0822/ALGORITHM_SCSA/wiki/%EB%AC%B8%EC%A0%9C-%ED%92%80%EC%9D%B4-%EB%A3%A8%ED%8B%B4-(%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98)) 
 
+<br><br> 
+
 ## 템플릿 정리 
 [BFS 템플릿](https://github.com/Vida0822/ALGORITHM_SCSA/wiki/%5B%EC%9C%A0%ED%98%95%5D-BFS-%ED%83%AC%ED%94%8C%EB%A6%BF)   <br> 
 [DFS 템플릿](https://github.com/Vida0822/ALGORITHM_SCSA/wiki/%5B%EC%9C%A0%ED%98%95%5D-DFS-%ED%85%9C%ED%94%8C%EB%A6%BF-(Recursive-Stack))   <br>
@@ -17,6 +19,7 @@ SCSA 테스트를 위한 python 문제풀이 레포지토리입니다.
 [시뮬레이션-뱀](https://github.com/Vida0822/ALGORITHM_SCSA/wiki/%5B%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98%5D-%EB%B1%80)  <br>
 [시뮬레이션-삼투압](https://github.com/Vida0822/ALGORITHM_SCSA/wiki/%5B%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98%5D-%EC%82%BC%ED%88%AC%EC%95%95) <br>
 
+<br><br> 
 
 
 ## 풀이 문제 
@@ -91,14 +94,20 @@ SCSA 테스트를 위한 python 문제풀이 레포지토리입니다.
  [스위치 켜고 끄기](https://github.com/Vida0822/Programmers/tree/main/백준/Silver/1244. 스위치 켜고 끄기)
  
 
+<br><br> 
 
 ### 알고리즘 연습
 
+<br><br> 
 
 ### 기출문제 (백준)
 
+<br><br> 
 
 ### 기출문제 (코드트리)
+
+<br><br> 
+
  
  
  
