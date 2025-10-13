@@ -10,7 +10,7 @@ SCSA 테스트를 위한 python 문제풀이 레포지토리입니다.
 [DFS 템플릿](https://github.com/Vida0822/ALGORITHM_SCSA/wiki/%5B%EC%9C%A0%ED%98%95%5D-DFS-%ED%85%9C%ED%94%8C%EB%A6%BF-(Recursive-Stack))   <br>
 [백트래킹 템플릿](https://github.com/Vida0822/ALGORITHM_SCSA/wiki/%5B%EC%9C%A0%ED%98%95%5D-%EB%B0%B1%ED%8A%B8%EB%9E%98%ED%82%B9-(Back%E2%80%90Tracking)) <br>
 [DP 템플](https://github.com/Vida0822/ALGORITHM_SCSA/wiki/%5B%EC%9C%A0%ED%98%95%5D-DP-%ED%83%AC%ED%94%8C%EB%A6%BF) <br>
-[이진탐색 템플릿](https://github.com/Vida0822/ALGORITHM_SCSA/wiki/%5B%EC%9C%A0%ED%98%95%5D-%EC%9D%B4%EC%A7%84%ED%83%90%EC%83%89-%ED%85%9C%ED%94%8C%EB%A6%BF) 
+[이진탐색 템플릿](https://github.com/Vida0822/ALGORITHM_SCSA/wiki/%5B%EC%9C%A0%ED%98%95%5D-%EC%9D%B4%EC%A7%84%ED%83%90%EC%83%89-%ED%85%9C%ED%94%8C%EB%A6%BF) <br>
 [기타 그래프](https://github.com/Vida0822/ALGORITHM_SCSA/wiki/%5B%EC%9C%A0%ED%98%95%5D-%EA%B8%B0%ED%83%80-%EA%B7%B8%EB%9E%98%ED%94%84)  <br> 
 
 ## 시뮬레이션 
