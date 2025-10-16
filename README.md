@@ -101,6 +101,8 @@ SCSA 테스트를 위한 python 문제풀이 레포지토리입니다.
 <br><br> 
 
 ### 기출문제 (백준)
+[00_테트로미노_개인코드리뷰_신희민.py](https://github.com/Vida0822/ALGORITHM_SCSA/blob/4d59d018b7f3f53177f10cd170f60f5540099d6f/00_%ED%85%8C%ED%8A%B8%EB%A1%9C%EB%AF%B8%EB%85%B8_%EA%B0%9C%EC%9D%B8%EC%BD%94%EB%93%9C%EB%A6%AC%EB%B7%B0_%EC%8B%A0%ED%9D%AC%EB%AF%BC.py)  <br> 
+[01_로봇청소기_개인코드리뷰_신희민.py](https://github.com/Vida0822/ALGORITHM_SCSA/blob/4d59d018b7f3f53177f10cd170f60f5540099d6f/01_%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0_%EA%B0%9C%EC%9D%B8%EC%BD%94%EB%93%9C%EB%A6%AC%EB%B7%B0_%EC%8B%A0%ED%9D%AC%EB%AF%BC.py)  <br> 
 
 <br><br> 
 
