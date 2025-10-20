@@ -107,6 +107,7 @@ SCSA 테스트를 위한 python 문제풀이 레포지토리입니다.
 [벚꽃이 정보섬에 피어난 이유](https://github.com/Vida0822/Programmers/tree/8f7bb437bc8f3c3e6e1e028b65727e3101f35347/%EB%B0%B1%EC%A4%80/Silver/17127.%E2%80%85%EB%B2%9A%EA%BD%83%EC%9D%B4%E2%80%85%EC%A0%95%EB%B3%B4%EC%84%AC%EC%97%90%E2%80%85%ED%94%BC%EC%96%B4%EB%82%9C%E2%80%85%EC%9D%B4%EC%9C%A0) / 
 [마인크래프트](https://github.com/Vida0822/Programmers/blob/8f7bb437bc8f3c3e6e1e028b65727e3101f35347/%EB%B0%B1%EC%A4%80/Silver/18111.%E2%80%85%EB%A7%88%EC%9D%B8%ED%81%AC%EB%9E%98%ED%94%84%ED%8A%B8/%EB%A7%88%EC%9D%B8%ED%81%AC%EB%9E%98%ED%94%84%ED%8A%B8.py) / 
 [동전 퍼즐](https://github.com/Vida0822/Programmers/tree/8f7bb437bc8f3c3e6e1e028b65727e3101f35347/%EB%B0%B1%EC%A4%80/Silver/27921.%E2%80%85%EB%8F%99%EC%A0%84%E2%80%85%ED%8D%BC%EC%A6%90) / 
+[덩치](https://github.com/Vida0822/Programmers/tree/8f7bb437bc8f3c3e6e1e028b65727e3101f35347/%EB%B0%B1%EC%A4%80/Silver/7568.%E2%80%85%EB%8D%A9%EC%B9%98) / 
 
 
 
@@ -127,6 +128,7 @@ SCSA 테스트를 위한 python 문제풀이 레포지토리입니다.
 [화학식량](https://github.com/Vida0822/Programmers/tree/8f7bb437bc8f3c3e6e1e028b65727e3101f35347/%EB%B0%B1%EC%A4%80/Silver/2257.%E2%80%85%ED%99%94%ED%95%99%EC%8B%9D%EB%9F%89) / 
 [회전초밥](https://github.com/Vida0822/Programmers/tree/8f7bb437bc8f3c3e6e1e028b65727e3101f35347/%EB%B0%B1%EC%A4%80/Silver/28107.%E2%80%85%ED%9A%8C%EC%A0%84%EC%B4%88%EB%B0%A5) / 
 [균형잡힌 세상](https://github.com/Vida0822/Programmers/tree/8f7bb437bc8f3c3e6e1e028b65727e3101f35347/%EB%B0%B1%EC%A4%80/Silver/4949.%E2%80%85%EA%B7%A0%ED%98%95%EC%9E%A1%ED%9E%8C%E2%80%85%EC%84%B8%EC%83%81) / 
+[괄호](https://github.com/Vida0822/Programmers/tree/8f7bb437bc8f3c3e6e1e028b65727e3101f35347/%EB%B0%B1%EC%A4%80/Silver/9012.%E2%80%85%EA%B4%84%ED%98%B8) / 
 
 
 
@@ -172,7 +174,10 @@ SCSA 테스트를 위한 python 문제풀이 레포지토리입니다.
 [촌수계산](https://github.com/Vida0822/Programmers/tree/8f7bb437bc8f3c3e6e1e028b65727e3101f35347/%EB%B0%B1%EC%A4%80/Silver/2644.%E2%80%85%EC%B4%8C%EC%88%98%EA%B3%84%EC%82%B0) / 
 [단지번호붙이기](https://github.com/Vida0822/Programmers/tree/8f7bb437bc8f3c3e6e1e028b65727e3101f35347/%EB%B0%B1%EC%A4%80/Silver/2667.%E2%80%85%EB%8B%A8%EC%A7%80%EB%B2%88%ED%98%B8%EB%B6%99%EC%9D%B4%EA%B8%B0) / 
 [육각타일미로 탈출기](https://github.com/Vida0822/Programmers/blob/8f7bb437bc8f3c3e6e1e028b65727e3101f35347/%EB%B0%B1%EC%A4%80/Silver/31564.%E2%80%85%EC%9C%A1%EA%B0%81%ED%83%80%EC%9D%BC%EB%AF%B8%EB%A1%9C%E2%80%85%ED%83%88%EC%B6%9C%EA%B8%B0/%EC%9C%A1%EA%B0%81%ED%83%80%EC%9D%BC%EB%AF%B8%EB%A1%9C%E2%80%85%ED%83%88%EC%B6%9C%EA%B8%B0.py) / 
-[스타트링크](https://github.com/Vida0822/Programmers/tree/8f7bb437bc8f3c3e6e1e028b65727e3101f35347/%EB%B0%B1%EC%A4%80/Silver/5014.%E2%80%85%EC%8A%A4%ED%83%80%ED%8A%B8%EB%A7%81%ED%81%AC)
+[스타트링크](https://github.com/Vida0822/Programmers/tree/8f7bb437bc8f3c3e6e1e028b65727e3101f35347/%EB%B0%B1%EC%A4%80/Silver/5014.%E2%80%85%EC%8A%A4%ED%83%80%ED%8A%B8%EB%A7%81%ED%81%AC) / 
+[지구 온난화](https://github.com/Vida0822/Programmers/tree/8f7bb437bc8f3c3e6e1e028b65727e3101f35347/%EB%B0%B1%EC%A4%80/Silver/5212.%E2%80%85%EC%A7%80%EA%B5%AC%E2%80%85%EC%98%A8%EB%82%9C%ED%99%94) / 
+[나이트의 이동](https://github.com/Vida0822/Programmers/tree/8f7bb437bc8f3c3e6e1e028b65727e3101f35347/%EB%B0%B1%EC%A4%80/Silver/7562.%E2%80%85%EB%82%98%EC%9D%B4%ED%8A%B8%EC%9D%98%E2%80%85%EC%9D%B4%EB%8F%99) / 
+
 
 
 
@@ -195,6 +200,7 @@ SCSA 테스트를 위한 python 문제풀이 레포지토리입니다.
 [영재의 시험](https://github.com/Vida0822/Programmers/tree/8f7bb437bc8f3c3e6e1e028b65727e3101f35347/%EB%B0%B1%EC%A4%80/Silver/19949.%E2%80%85%EC%98%81%EC%9E%AC%EC%9D%98%E2%80%85%EC%8B%9C%ED%97%98) / 
 [숫자 야구](https://github.com/Vida0822/Programmers/tree/8f7bb437bc8f3c3e6e1e028b65727e3101f35347/%EB%B0%B1%EC%A4%80/Silver/2503.%E2%80%85%EC%88%AB%EC%9E%90%E2%80%85%EC%95%BC%EA%B5%AC) / 
 [대피소](https://github.com/Vida0822/Programmers/tree/8f7bb437bc8f3c3e6e1e028b65727e3101f35347/%EB%B0%B1%EC%A4%80/Silver/28215.%E2%80%85%EB%8C%80%ED%94%BC%EC%86%8C) / 
+[카드 놓기](https://github.com/Vida0822/Programmers/tree/8f7bb437bc8f3c3e6e1e028b65727e3101f35347/%EB%B0%B1%EC%A4%80/Silver/5568.%E2%80%85%EC%B9%B4%EB%93%9C%E2%80%85%EB%86%93%EA%B8%B0) / 
 
 
 
@@ -211,6 +217,7 @@ SCSA 테스트를 위한 python 문제풀이 레포지토리입니다.
 [정수 삼각형](https://github.com/Vida0822/Programmers/tree/8f7bb437bc8f3c3e6e1e028b65727e3101f35347/%EB%B0%B1%EC%A4%80/Silver/1932.%E2%80%85%EC%A0%95%EC%88%98%E2%80%85%EC%82%BC%EA%B0%81%ED%98%95) / 
 [계단 오르기](https://github.com/Vida0822/Programmers/tree/8f7bb437bc8f3c3e6e1e028b65727e3101f35347/%EB%B0%B1%EC%A4%80/Silver/2579.%E2%80%85%EA%B3%84%EB%8B%A8%E2%80%85%EC%98%A4%EB%A5%B4%EA%B8%B0) / 
 [연속부분최대곱](https://github.com/Vida0822/Programmers/tree/8f7bb437bc8f3c3e6e1e028b65727e3101f35347/%EB%B0%B1%EC%A4%80/Silver/2670.%E2%80%85%EC%97%B0%EC%86%8D%EB%B6%80%EB%B6%84%EC%B5%9C%EB%8C%80%EA%B3%B1) / 
+[1, 2, 3 더하기](https://github.com/Vida0822/Programmers/tree/8f7bb437bc8f3c3e6e1e028b65727e3101f35347/%EB%B0%B1%EC%A4%80/Silver/9095.%E2%80%851%EF%BC%8C%E2%80%852%EF%BC%8C%E2%80%853%E2%80%85%EB%8D%94%ED%95%98%EA%B8%B0) / 
 
 
 #### 이분탐색
@@ -255,6 +262,9 @@ SCSA 테스트를 위한 python 문제풀이 레포지토리입니다.
 [크로아티아 알파벳](https://github.com/Vida0822/Programmers/tree/8f7bb437bc8f3c3e6e1e028b65727e3101f35347/%EB%B0%B1%EC%A4%80/Silver/2941.%E2%80%85%ED%81%AC%EB%A1%9C%EC%95%84%ED%8B%B0%EC%95%84%E2%80%85%EC%95%8C%ED%8C%8C%EB%B2%B3) / 
 [INK](https://github.com/Vida0822/Programmers/tree/8f7bb437bc8f3c3e6e1e028b65727e3101f35347/%EB%B0%B1%EC%A4%80/Silver/30036.%E2%80%85INK) / 
 [별 가두기](https://github.com/Vida0822/Programmers/tree/8f7bb437bc8f3c3e6e1e028b65727e3101f35347/%EB%B0%B1%EC%A4%80/Silver/30679.%E2%80%85%EB%B3%84%E2%80%85%EA%B0%80%EB%91%90%EA%B8%B0) / 
+[카드 캡터 상근이](https://github.com/Vida0822/Programmers/tree/8f7bb437bc8f3c3e6e1e028b65727e3101f35347/%EB%B0%B1%EC%A4%80/Silver/5587.%E2%80%85%EC%B9%B4%EB%93%9C%E2%80%85%EC%BA%A1%ED%84%B0%E2%80%85%EC%83%81%EA%B7%BC%EC%9D%B4) / 
+[가위 바위 보](https://github.com/Vida0822/Programmers/tree/8f7bb437bc8f3c3e6e1e028b65727e3101f35347/%EB%B0%B1%EC%A4%80/Silver/8896.%E2%80%85%EA%B0%80%EC%9C%84%E2%80%85%EB%B0%94%EC%9C%84%E2%80%85%EB%B3%B4) / 
+[거북이](https://github.com/Vida0822/Programmers/blob/8f7bb437bc8f3c3e6e1e028b65727e3101f35347/%EB%B0%B1%EC%A4%80/Silver/8911.%E2%80%85%EA%B1%B0%EB%B6%81%EC%9D%B4/%EA%B1%B0%EB%B6%81%EC%9D%B4.py) / 
 
 
 
