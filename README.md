@@ -106,6 +106,8 @@ SCSA 테스트를 위한 python 문제풀이 레포지토리입니다.
 [영화감독 숌](https://github.com/Vida0822/Programmers/tree/8f7bb437bc8f3c3e6e1e028b65727e3101f35347/%EB%B0%B1%EC%A4%80/Silver/1436.%E2%80%85%EC%98%81%ED%99%94%EA%B0%90%EB%8F%85%E2%80%85%EC%88%8C) / 
 [벚꽃이 정보섬에 피어난 이유](https://github.com/Vida0822/Programmers/tree/8f7bb437bc8f3c3e6e1e028b65727e3101f35347/%EB%B0%B1%EC%A4%80/Silver/17127.%E2%80%85%EB%B2%9A%EA%BD%83%EC%9D%B4%E2%80%85%EC%A0%95%EB%B3%B4%EC%84%AC%EC%97%90%E2%80%85%ED%94%BC%EC%96%B4%EB%82%9C%E2%80%85%EC%9D%B4%EC%9C%A0) / 
 [마인크래프트](https://github.com/Vida0822/Programmers/blob/8f7bb437bc8f3c3e6e1e028b65727e3101f35347/%EB%B0%B1%EC%A4%80/Silver/18111.%E2%80%85%EB%A7%88%EC%9D%B8%ED%81%AC%EB%9E%98%ED%94%84%ED%8A%B8/%EB%A7%88%EC%9D%B8%ED%81%AC%EB%9E%98%ED%94%84%ED%8A%B8.py) / 
+[동전 퍼즐](https://github.com/Vida0822/Programmers/tree/8f7bb437bc8f3c3e6e1e028b65727e3101f35347/%EB%B0%B1%EC%A4%80/Silver/27921.%E2%80%85%EB%8F%99%EC%A0%84%E2%80%85%ED%8D%BC%EC%A6%90) / 
+
 
 
 #### 자료구조 
@@ -123,6 +125,8 @@ SCSA 테스트를 위한 python 문제풀이 레포지토리입니다.
 [카드2](https://github.com/Vida0822/Programmers/tree/8f7bb437bc8f3c3e6e1e028b65727e3101f35347/%EB%B0%B1%EC%A4%80/Silver/2164.%E2%80%85%EC%B9%B4%EB%93%9C2) / 
 [숫자 카드 2](https://github.com/Vida0822/Programmers/tree/8f7bb437bc8f3c3e6e1e028b65727e3101f35347/%EB%B0%B1%EC%A4%80/Silver/10816.%E2%80%85%EC%88%AB%EC%9E%90%E2%80%85%EC%B9%B4%EB%93%9C%E2%80%852) / 
 [화학식량](https://github.com/Vida0822/Programmers/tree/8f7bb437bc8f3c3e6e1e028b65727e3101f35347/%EB%B0%B1%EC%A4%80/Silver/2257.%E2%80%85%ED%99%94%ED%95%99%EC%8B%9D%EB%9F%89) / 
+[회전초밥](https://github.com/Vida0822/Programmers/tree/8f7bb437bc8f3c3e6e1e028b65727e3101f35347/%EB%B0%B1%EC%A4%80/Silver/28107.%E2%80%85%ED%9A%8C%EC%A0%84%EC%B4%88%EB%B0%A5) / 
+[균형잡힌 세상](https://github.com/Vida0822/Programmers/tree/8f7bb437bc8f3c3e6e1e028b65727e3101f35347/%EB%B0%B1%EC%A4%80/Silver/4949.%E2%80%85%EA%B7%A0%ED%98%95%EC%9E%A1%ED%9E%8C%E2%80%85%EC%84%B8%EC%83%81) / 
 
 
 
@@ -134,11 +138,14 @@ SCSA 테스트를 위한 python 문제풀이 레포지토리입니다.
 [소수 구하기](https://github.com/Vida0822/Programmers/tree/8f7bb437bc8f3c3e6e1e028b65727e3101f35347/%EB%B0%B1%EC%A4%80/Silver/1929.%E2%80%85%EC%86%8C%EC%88%98%E2%80%85%EA%B5%AC%ED%95%98%EA%B8%B0) / 
 [수들의 합 5](https://github.com/Vida0822/Programmers/tree/8f7bb437bc8f3c3e6e1e028b65727e3101f35347/%EB%B0%B1%EC%A4%80/Silver/2018.%E2%80%85%EC%88%98%EB%93%A4%EC%9D%98%E2%80%85%ED%95%A9%E2%80%855) / 
 [통계학](https://github.com/Vida0822/Programmers/tree/8f7bb437bc8f3c3e6e1e028b65727e3101f35347/%EB%B0%B1%EC%A4%80/Silver/2108.%E2%80%85%ED%86%B5%EA%B3%84%ED%95%99) / 
+[행렬 곱셈](https://github.com/Vida0822/Programmers/tree/8f7bb437bc8f3c3e6e1e028b65727e3101f35347/%EB%B0%B1%EC%A4%80/Silver/2740.%E2%80%85%ED%96%89%EB%A0%AC%E2%80%85%EA%B3%B1%EC%85%88) / 
+[도로와 신호등](https://github.com/Vida0822/Programmers/tree/8f7bb437bc8f3c3e6e1e028b65727e3101f35347/%EB%B0%B1%EC%A4%80/Silver/2980.%E2%80%85%EB%8F%84%EB%A1%9C%EC%99%80%E2%80%85%EC%8B%A0%ED%98%B8%EB%93%B1) / 
 
 
 #### Greedy 
 [동전 0](https://github.com/Vida0822/Programmers/tree/8f7bb437bc8f3c3e6e1e028b65727e3101f35347/%EB%B0%B1%EC%A4%80/Silver/11047.%E2%80%85%EB%8F%99%EC%A0%84%E2%80%850) / 
 [뒤집기](https://github.com/Vida0822/Programmers/tree/8f7bb437bc8f3c3e6e1e028b65727e3101f35347/%EB%B0%B1%EC%A4%80/Silver/1439.%E2%80%85%EB%92%A4%EC%A7%91%EA%B8%B0) / 
+[설탕 배달](https://github.com/Vida0822/Programmers/tree/8f7bb437bc8f3c3e6e1e028b65727e3101f35347/%EB%B0%B1%EC%A4%80/Silver/2839.%E2%80%85%EC%84%A4%ED%83%95%E2%80%85%EB%B0%B0%EB%8B%AC) / 
 
 
 
@@ -150,6 +157,7 @@ SCSA 테스트를 위한 python 문제풀이 레포지토리입니다.
 [좌표 정렬하기](https://github.com/Vida0822/Programmers/tree/8f7bb437bc8f3c3e6e1e028b65727e3101f35347/%EB%B0%B1%EC%A4%80/Silver/11650.%E2%80%85%EC%A2%8C%ED%91%9C%E2%80%85%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0)
 [좌표 정렬하기 2](https://github.com/Vida0822/Programmers/tree/8f7bb437bc8f3c3e6e1e028b65727e3101f35347/%EB%B0%B1%EC%A4%80/Silver/11651.%E2%80%85%EC%A2%8C%ED%91%9C%E2%80%85%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0%E2%80%852) / 
 [단어 정렬](https://github.com/Vida0822/Programmers/tree/8f7bb437bc8f3c3e6e1e028b65727e3101f35347/%EB%B0%B1%EC%A4%80/Silver/1181.%E2%80%85%EB%8B%A8%EC%96%B4%E2%80%85%EC%A0%95%EB%A0%AC) / 
+[만다라트 만들기](https://github.com/Vida0822/Programmers/tree/8f7bb437bc8f3c3e6e1e028b65727e3101f35347/%EB%B0%B1%EC%A4%80/Silver/27495.%E2%80%85%EB%A7%8C%EB%8B%A4%EB%9D%BC%ED%8A%B8%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0) / 
 
 
 
@@ -161,6 +169,10 @@ SCSA 테스트를 위한 python 문제풀이 레포지토리입니다.
 [미로 탐색](https://github.com/Vida0822/Programmers/tree/8f7bb437bc8f3c3e6e1e028b65727e3101f35347/%EB%B0%B1%EC%A4%80/Silver/2178.%E2%80%85%EB%AF%B8%EB%A1%9C%E2%80%85%ED%83%90%EC%83%89) / 
 [안전 영역](https://github.com/Vida0822/Programmers/tree/8f7bb437bc8f3c3e6e1e028b65727e3101f35347/%EB%B0%B1%EC%A4%80/Silver/2468.%E2%80%85%EC%95%88%EC%A0%84%E2%80%85%EC%98%81%EC%97%AD) / 
 [바이러스](https://github.com/Vida0822/Programmers/tree/8f7bb437bc8f3c3e6e1e028b65727e3101f35347/%EB%B0%B1%EC%A4%80/Silver/2606.%E2%80%85%EB%B0%94%EC%9D%B4%EB%9F%AC%EC%8A%A4) / 
+[촌수계산](https://github.com/Vida0822/Programmers/tree/8f7bb437bc8f3c3e6e1e028b65727e3101f35347/%EB%B0%B1%EC%A4%80/Silver/2644.%E2%80%85%EC%B4%8C%EC%88%98%EA%B3%84%EC%82%B0) / 
+[단지번호붙이기](https://github.com/Vida0822/Programmers/tree/8f7bb437bc8f3c3e6e1e028b65727e3101f35347/%EB%B0%B1%EC%A4%80/Silver/2667.%E2%80%85%EB%8B%A8%EC%A7%80%EB%B2%88%ED%98%B8%EB%B6%99%EC%9D%B4%EA%B8%B0) / 
+[육각타일미로 탈출기](https://github.com/Vida0822/Programmers/blob/8f7bb437bc8f3c3e6e1e028b65727e3101f35347/%EB%B0%B1%EC%A4%80/Silver/31564.%E2%80%85%EC%9C%A1%EA%B0%81%ED%83%80%EC%9D%BC%EB%AF%B8%EB%A1%9C%E2%80%85%ED%83%88%EC%B6%9C%EA%B8%B0/%EC%9C%A1%EA%B0%81%ED%83%80%EC%9D%BC%EB%AF%B8%EB%A1%9C%E2%80%85%ED%83%88%EC%B6%9C%EA%B8%B0.py) / 
+[스타트링크](https://github.com/Vida0822/Programmers/tree/8f7bb437bc8f3c3e6e1e028b65727e3101f35347/%EB%B0%B1%EC%A4%80/Silver/5014.%E2%80%85%EC%8A%A4%ED%83%80%ED%8A%B8%EB%A7%81%ED%81%AC)
 
 
 
@@ -182,6 +194,7 @@ SCSA 테스트를 위한 python 문제풀이 레포지토리입니다.
 [근손실](https://github.com/Vida0822/Programmers/tree/8f7bb437bc8f3c3e6e1e028b65727e3101f35347/%EB%B0%B1%EC%A4%80/Silver/18429.%E2%80%85%EA%B7%BC%EC%86%90%EC%8B%A4) / 
 [영재의 시험](https://github.com/Vida0822/Programmers/tree/8f7bb437bc8f3c3e6e1e028b65727e3101f35347/%EB%B0%B1%EC%A4%80/Silver/19949.%E2%80%85%EC%98%81%EC%9E%AC%EC%9D%98%E2%80%85%EC%8B%9C%ED%97%98) / 
 [숫자 야구](https://github.com/Vida0822/Programmers/tree/8f7bb437bc8f3c3e6e1e028b65727e3101f35347/%EB%B0%B1%EC%A4%80/Silver/2503.%E2%80%85%EC%88%AB%EC%9E%90%E2%80%85%EC%95%BC%EA%B5%AC) / 
+[대피소](https://github.com/Vida0822/Programmers/tree/8f7bb437bc8f3c3e6e1e028b65727e3101f35347/%EB%B0%B1%EC%A4%80/Silver/28215.%E2%80%85%EB%8C%80%ED%94%BC%EC%86%8C) / 
 
 
 
@@ -197,11 +210,13 @@ SCSA 테스트를 위한 python 문제풀이 레포지토리입니다.
 [연속합](https://github.com/Vida0822/Programmers/tree/8f7bb437bc8f3c3e6e1e028b65727e3101f35347/%EB%B0%B1%EC%A4%80/Silver/1912.%E2%80%85%EC%97%B0%EC%86%8D%ED%95%A9) / 
 [정수 삼각형](https://github.com/Vida0822/Programmers/tree/8f7bb437bc8f3c3e6e1e028b65727e3101f35347/%EB%B0%B1%EC%A4%80/Silver/1932.%E2%80%85%EC%A0%95%EC%88%98%E2%80%85%EC%82%BC%EA%B0%81%ED%98%95) / 
 [계단 오르기](https://github.com/Vida0822/Programmers/tree/8f7bb437bc8f3c3e6e1e028b65727e3101f35347/%EB%B0%B1%EC%A4%80/Silver/2579.%E2%80%85%EA%B3%84%EB%8B%A8%E2%80%85%EC%98%A4%EB%A5%B4%EA%B8%B0) / 
-
+[연속부분최대곱](https://github.com/Vida0822/Programmers/tree/8f7bb437bc8f3c3e6e1e028b65727e3101f35347/%EB%B0%B1%EC%A4%80/Silver/2670.%E2%80%85%EC%97%B0%EC%86%8D%EB%B6%80%EB%B6%84%EC%B5%9C%EB%8C%80%EA%B3%B1) / 
 
 
 #### 이분탐색
 [예산](https://github.com/Vida0822/Programmers/tree/8f7bb437bc8f3c3e6e1e028b65727e3101f35347/%EB%B0%B1%EC%A4%80/Silver/2512.%E2%80%85%EC%98%88%EC%82%B0) / 
+[나무 자르기](https://github.com/Vida0822/Programmers/tree/8f7bb437bc8f3c3e6e1e028b65727e3101f35347/%EB%B0%B1%EC%A4%80/Silver/2805.%E2%80%85%EB%82%98%EB%AC%B4%E2%80%85%EC%9E%90%EB%A5%B4%EA%B8%B0) / 
+
 
 
 
@@ -220,6 +235,7 @@ SCSA 테스트를 위한 python 문제풀이 레포지토리입니다.
 [영역 구하기](https://github.com/Vida0822/Programmers/tree/8f7bb437bc8f3c3e6e1e028b65727e3101f35347/%EB%B0%B1%EC%A4%80/Silver/2583.%E2%80%85%EC%98%81%EC%97%AD%E2%80%85%EA%B5%AC%ED%95%98%EA%B8%B0) / 
 [색종이](https://github.com/Vida0822/Programmers/tree/8f7bb437bc8f3c3e6e1e028b65727e3101f35347/%EB%B0%B1%EC%A4%80/Silver/2563.%E2%80%85%EC%83%89%EC%A2%85%EC%9D%B4) / 
 [색종이 - 2](https://github.com/Vida0822/Programmers/tree/8f7bb437bc8f3c3e6e1e028b65727e3101f35347/%EB%B0%B1%EC%A4%80/Silver/2567.%E2%80%85%EC%83%89%EC%A2%85%EC%9D%B4%E2%80%85%EF%BC%8D%E2%80%852) / 
+[색종이 만들기](https://github.com/Vida0822/Programmers/tree/8f7bb437bc8f3c3e6e1e028b65727e3101f35347/%EB%B0%B1%EC%A4%80/Silver/2630.%E2%80%85%EC%83%89%EC%A2%85%EC%9D%B4%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0) / 
 [종이자르기](https://github.com/Vida0822/Programmers/tree/8f7bb437bc8f3c3e6e1e028b65727e3101f35347/%EB%B0%B1%EC%A4%80/Silver/2628.%E2%80%85%EC%A2%85%EC%9D%B4%EC%9E%90%EB%A5%B4%EA%B8%B0) / 
 [기상캐스터](https://github.com/Vida0822/Programmers/tree/8f7bb437bc8f3c3e6e1e028b65727e3101f35347/%EB%B0%B1%EC%A4%80/Silver/10709.%E2%80%85%EA%B8%B0%EC%83%81%EC%BA%90%EC%8A%A4%ED%84%B0) / 
 [스위치 켜고 끄기](https://github.com/Vida0822/Programmers/tree/8f7bb437bc8f3c3e6e1e028b65727e3101f35347/%EB%B0%B1%EC%A4%80/Silver/1244.%E2%80%85%EC%8A%A4%EC%9C%84%EC%B9%98%E2%80%85%EC%BC%9C%EA%B3%A0%E2%80%85%EB%81%84%EA%B8%B0) /
@@ -236,6 +252,12 @@ SCSA 테스트를 위한 python 문제풀이 레포지토리입니다.
 [QWERTY 자판](https://github.com/Vida0822/Programmers/tree/8f7bb437bc8f3c3e6e1e028b65727e3101f35347/%EB%B0%B1%EC%A4%80/Silver/20914.%E2%80%85QWERTY%E2%80%85%EC%9E%90%ED%8C%90) / 
 [충돌의 수](https://github.com/Vida0822/Programmers/tree/8f7bb437bc8f3c3e6e1e028b65727e3101f35347/%EB%B0%B1%EC%A4%80/Silver/24468.%E2%80%85%EC%B6%A9%EB%8F%8C%EC%9D%98%E2%80%85%EC%88%98) / 
 [빙고](https://github.com/Vida0822/Programmers/tree/8f7bb437bc8f3c3e6e1e028b65727e3101f35347/%EB%B0%B1%EC%A4%80/Silver/2578.%E2%80%85%EB%B9%99%EA%B3%A0) / 
+[크로아티아 알파벳](https://github.com/Vida0822/Programmers/tree/8f7bb437bc8f3c3e6e1e028b65727e3101f35347/%EB%B0%B1%EC%A4%80/Silver/2941.%E2%80%85%ED%81%AC%EB%A1%9C%EC%95%84%ED%8B%B0%EC%95%84%E2%80%85%EC%95%8C%ED%8C%8C%EB%B2%B3) / 
+[INK](https://github.com/Vida0822/Programmers/tree/8f7bb437bc8f3c3e6e1e028b65727e3101f35347/%EB%B0%B1%EC%A4%80/Silver/30036.%E2%80%85INK) / 
+[별 가두기](https://github.com/Vida0822/Programmers/tree/8f7bb437bc8f3c3e6e1e028b65727e3101f35347/%EB%B0%B1%EC%A4%80/Silver/30679.%E2%80%85%EB%B3%84%E2%80%85%EA%B0%80%EB%91%90%EA%B8%B0) / 
+
+
+
 
 
 
