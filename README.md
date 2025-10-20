@@ -131,7 +131,8 @@ SCSA 테스트를 위한 python 문제풀이 레포지토리입니다.
 [화학식량](https://github.com/Vida0822/Programmers/tree/8f7bb437bc8f3c3e6e1e028b65727e3101f35347/%EB%B0%B1%EC%A4%80/Silver/2257.%E2%80%85%ED%99%94%ED%95%99%EC%8B%9D%EB%9F%89) / 
 [회전초밥](https://github.com/Vida0822/Programmers/tree/8f7bb437bc8f3c3e6e1e028b65727e3101f35347/%EB%B0%B1%EC%A4%80/Silver/28107.%E2%80%85%ED%9A%8C%EC%A0%84%EC%B4%88%EB%B0%A5) / 
 [균형잡힌 세상](https://github.com/Vida0822/Programmers/tree/8f7bb437bc8f3c3e6e1e028b65727e3101f35347/%EB%B0%B1%EC%A4%80/Silver/4949.%E2%80%85%EA%B7%A0%ED%98%95%EC%9E%A1%ED%9E%8C%E2%80%85%EC%84%B8%EC%83%81) / 
-[괄호](https://github.com/Vida0822/Programmers/tree/8f7bb437bc8f3c3e6e1e028b65727e3101f35347/%EB%B0%B1%EC%A4%80/Silver/9012.%E2%80%85%EA%B4%84%ED%98%B8) / 
+[괄호](https://github.com/Vida0822/Programmers/tree/8f7bb437bc8f3c3e6e1e028b65727e3101f35347/%EB%B0%B1%EC%A4%80/Silver/9012.%E2%80%85%EA%B4%84%ED%98%B8) /
+[집합의 표현](https://github.com/Vida0822/Programmers/tree/8f7bb437bc8f3c3e6e1e028b65727e3101f35347/%EB%B0%B1%EC%A4%80/Gold/1717.%E2%80%85%EC%A7%91%ED%95%A9%EC%9D%98%E2%80%85%ED%91%9C%ED%98%84)
 
 <br>
 
@@ -159,6 +160,8 @@ SCSA 테스트를 위한 python 문제풀이 레포지토리입니다.
 * 골드 :
 [배](https://github.com/Vida0822/Programmers/tree/8f7bb437bc8f3c3e6e1e028b65727e3101f35347/%EB%B0%B1%EC%A4%80/Gold/1092.%E2%80%85%EB%B0%B0) /
 [싸지방에 간 준하](https://github.com/Vida0822/Programmers/tree/8f7bb437bc8f3c3e6e1e028b65727e3101f35347/%EB%B0%B1%EC%A4%80/Gold/12764.%E2%80%85%EC%8B%B8%EC%A7%80%EB%B0%A9%EC%97%90%E2%80%85%EA%B0%84%E2%80%85%EC%A4%80%ED%95%98) /
+[카드 정렬하기](https://github.com/Vida0822/Programmers/tree/8f7bb437bc8f3c3e6e1e028b65727e3101f35347/%EB%B0%B1%EC%A4%80/Gold/1715.%E2%80%85%EC%B9%B4%EB%93%9C%E2%80%85%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0) /
+
 
 
 <br>
@@ -227,6 +230,8 @@ SCSA 테스트를 위한 python 문제풀이 레포지토리입니다.
 [Z](https://github.com/Vida0822/Programmers/tree/8f7bb437bc8f3c3e6e1e028b65727e3101f35347/%EB%B0%B1%EC%A4%80/Gold/1074.%E2%80%85Z) /
 [하노이 탑 이동 순서](https://github.com/Vida0822/Programmers/tree/8f7bb437bc8f3c3e6e1e028b65727e3101f35347/%EB%B0%B1%EC%A4%80/Gold/11729.%E2%80%85%ED%95%98%EB%85%B8%EC%9D%B4%E2%80%85%ED%83%91%E2%80%85%EC%9D%B4%EB%8F%99%E2%80%85%EC%88%9C%EC%84%9C) /
 [ABCDE](https://github.com/Vida0822/Programmers/tree/8f7bb437bc8f3c3e6e1e028b65727e3101f35347/%EB%B0%B1%EC%A4%80/Gold/13023.%E2%80%85ABCDE) /
+[캠프 준비](https://github.com/Vida0822/Programmers/tree/8f7bb437bc8f3c3e6e1e028b65727e3101f35347/%EB%B0%B1%EC%A4%80/Gold/16938.%E2%80%85%EC%BA%A0%ED%94%84%E2%80%85%EC%A4%80%EB%B9%84) /
+
 
 
 
@@ -315,6 +320,10 @@ SCSA 테스트를 위한 python 문제풀이 레포지토리입니다.
 [톱니바퀴 (2)](https://github.com/Vida0822/Programmers/tree/8f7bb437bc8f3c3e6e1e028b65727e3101f35347/%EB%B0%B1%EC%A4%80/Gold/15662.%E2%80%85%ED%86%B1%EB%8B%88%EB%B0%94%ED%80%B4%E2%80%85%EF%BC%882%EF%BC%89) /
 [오델로](https://github.com/Vida0822/Programmers/tree/8f7bb437bc8f3c3e6e1e028b65727e3101f35347/%EB%B0%B1%EC%A4%80/Gold/15671.%E2%80%85%EC%98%A4%EB%8D%B8%EB%A1%9C) /
 [결! 합!](https://github.com/Vida0822/Programmers/tree/8f7bb437bc8f3c3e6e1e028b65727e3101f35347/%EB%B0%B1%EC%A4%80/Gold/16722.%E2%80%85%EA%B2%B0%EF%BC%81%E2%80%85%ED%95%A9%EF%BC%81) /
+[배열 돌리기1](https://github.com/Vida0822/Programmers/tree/8f7bb437bc8f3c3e6e1e028b65727e3101f35347/%EB%B0%B1%EC%A4%80/Gold/16926.%E2%80%85%EB%B0%B0%EC%97%B4%E2%80%85%EB%8F%8C%EB%A6%AC%EA%B8%B0%E2%80%851) /
+[배열 돌리기2](https://github.com/Vida0822/Programmers/tree/8f7bb437bc8f3c3e6e1e028b65727e3101f35347/%EB%B0%B1%EC%A4%80/Gold/16927.%E2%80%85%EB%B0%B0%EC%97%B4%E2%80%85%EB%8F%8C%EB%A6%AC%EA%B8%B0%E2%80%852) /
+[배열 돌리기3](https://github.com/Vida0822/Programmers/tree/8f7bb437bc8f3c3e6e1e028b65727e3101f35347/%EB%B0%B1%EC%A4%80/Gold/16935.%E2%80%85%EB%B0%B0%EC%97%B4%E2%80%85%EB%8F%8C%EB%A6%AC%EA%B8%B0%E2%80%853) /
+[2×2×2 큐브](https://github.com/Vida0822/Programmers/tree/8f7bb437bc8f3c3e6e1e028b65727e3101f35347/%EB%B0%B1%EC%A4%80/Gold/16939.%E2%80%852%C3%972%C3%972%E2%80%85%ED%81%90%EB%B8%8C) /
 
 
 
