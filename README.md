@@ -100,21 +100,70 @@ SCSA 테스트를 위한 python 문제풀이 레포지토리입니다.
 <br><br> 
 
 ### 알고리즘 연습
+#### BruteForce 
+[체스판 다시 칠하기](https://github.com/Vida0822/Programmers/tree/8f7bb437bc8f3c3e6e1e028b65727e3101f35347/%EB%B0%B1%EC%A4%80/Silver/1018.%E2%80%85%EC%B2%B4%EC%8A%A4%ED%8C%90%E2%80%85%EB%8B%A4%EC%8B%9C%E2%80%85%EC%B9%A0%ED%95%98%EA%B8%B0) / 
+[숫자 정사각형](https://github.com/Vida0822/Programmers/tree/8f7bb437bc8f3c3e6e1e028b65727e3101f35347/%EB%B0%B1%EC%A4%80/Silver/1051.%E2%80%85%EC%88%AB%EC%9E%90%E2%80%85%EC%A0%95%EC%82%AC%EA%B0%81%ED%98%95) / 
+
+#### 자료구조 
+[스택](https://github.com/Vida0822/Programmers/tree/8f7bb437bc8f3c3e6e1e028b65727e3101f35347/%EB%B0%B1%EC%A4%80/Silver/10828.%E2%80%85%EC%8A%A4%ED%83%9D) / 
+[큐](https://github.com/Vida0822/Programmers/tree/8f7bb437bc8f3c3e6e1e028b65727e3101f35347/%EB%B0%B1%EC%A4%80/Silver/10845.%E2%80%85%ED%81%90) / 
+[제로](https://github.com/Vida0822/Programmers/tree/8f7bb437bc8f3c3e6e1e028b65727e3101f35347/%EB%B0%B1%EC%A4%80/Silver/10773.%E2%80%85%EC%A0%9C%EB%A1%9C) / 
+[숫자 카드 2](https://github.com/Vida0822/Programmers/tree/8f7bb437bc8f3c3e6e1e028b65727e3101f35347/%EB%B0%B1%EC%A4%80/Silver/10816.%E2%80%85%EC%88%AB%EC%9E%90%E2%80%85%EC%B9%B4%EB%93%9C%E2%80%852) / 
+[최대 힙](https://github.com/Vida0822/Programmers/tree/8f7bb437bc8f3c3e6e1e028b65727e3101f35347/%EB%B0%B1%EC%A4%80/Silver/11279.%E2%80%85%EC%B5%9C%EB%8C%80%E2%80%85%ED%9E%99) / 
+[절댓값 힙](https://github.com/Vida0822/Programmers/tree/8f7bb437bc8f3c3e6e1e028b65727e3101f35347/%EB%B0%B1%EC%A4%80/Silver/11286.%E2%80%85%EC%A0%88%EB%8C%93%EA%B0%92%E2%80%85%ED%9E%99) / 
+
+#### 수학
+[구간 합 구하기 4](https://github.com/Vida0822/Programmers/tree/8f7bb437bc8f3c3e6e1e028b65727e3101f35347/%EB%B0%B1%EC%A4%80/Silver/11659.%E2%80%85%EA%B5%AC%EA%B0%84%E2%80%85%ED%95%A9%E2%80%85%EA%B5%AC%ED%95%98%EA%B8%B0%E2%80%854) / 
+[구간 합 구하기 5](https://github.com/Vida0822/Programmers/tree/8f7bb437bc8f3c3e6e1e028b65727e3101f35347/%EB%B0%B1%EC%A4%80/Silver/11660.%E2%80%85%EA%B5%AC%EA%B0%84%E2%80%85%ED%95%A9%E2%80%85%EA%B5%AC%ED%95%98%EA%B8%B0%E2%80%855) / 
+
+
+
+#### Greedy 
+[동전 0](https://github.com/Vida0822/Programmers/tree/8f7bb437bc8f3c3e6e1e028b65727e3101f35347/%EB%B0%B1%EC%A4%80/Silver/11047.%E2%80%85%EB%8F%99%EC%A0%84%E2%80%850) / 
+
+
+
+#### 정렬
+[줄세우기](https://github.com/Vida0822/Programmers/tree/8f7bb437bc8f3c3e6e1e028b65727e3101f35347/%EB%B0%B1%EC%A4%80/Silver/10431.%E2%80%85%EC%A4%84%EC%84%B8%EC%9A%B0%EA%B8%B0) / 
+[나이순 정렬](https://github.com/Vida0822/Programmers/tree/8f7bb437bc8f3c3e6e1e028b65727e3101f35347/%EB%B0%B1%EC%A4%80/Silver/10814.%E2%80%85%EB%82%98%EC%9D%B4%EC%88%9C%E2%80%85%EC%A0%95%EB%A0%AC) / 
+[국영수](https://github.com/Vida0822/Programmers/tree/8f7bb437bc8f3c3e6e1e028b65727e3101f35347/%EB%B0%B1%EC%A4%80/Silver/10825.%E2%80%85%EA%B5%AD%EC%98%81%EC%88%98) / 
+[K번째 수](https://github.com/Vida0822/Programmers/tree/8f7bb437bc8f3c3e6e1e028b65727e3101f35347/%EB%B0%B1%EC%A4%80/Silver/11004.%E2%80%85K%EB%B2%88%EC%A7%B8%E2%80%85%EC%88%98) / 
+[좌표 정렬하기](https://github.com/Vida0822/Programmers/tree/8f7bb437bc8f3c3e6e1e028b65727e3101f35347/%EB%B0%B1%EC%A4%80/Silver/11650.%E2%80%85%EC%A2%8C%ED%91%9C%E2%80%85%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0)
+[좌표 정렬하기 2](https://github.com/Vida0822/Programmers/tree/8f7bb437bc8f3c3e6e1e028b65727e3101f35347/%EB%B0%B1%EC%A4%80/Silver/11651.%E2%80%85%EC%A2%8C%ED%91%9C%E2%80%85%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0%E2%80%852) / 
+[단어 정렬](https://github.com/Vida0822/Programmers/tree/8f7bb437bc8f3c3e6e1e028b65727e3101f35347/%EB%B0%B1%EC%A4%80/Silver/1181.%E2%80%85%EB%8B%A8%EC%96%B4%E2%80%85%EC%A0%95%EB%A0%AC) / 
+
+
+
 #### BFS 
+[]
 
 #### DFS 
+[유기농배추](https://github.com/Vida0822/Programmers/tree/8f7bb437bc8f3c3e6e1e028b65727e3101f35347/%EB%B0%B1%EC%A4%80/Silver/1012.%E2%80%85%EC%9C%A0%EA%B8%B0%EB%86%8D%E2%80%85%EB%B0%B0%EC%B6%94) / 
+[차이를 최대로](https://github.com/Vida0822/Programmers/tree/8f7bb437bc8f3c3e6e1e028b65727e3101f35347/%EB%B0%B1%EC%A4%80/Silver/10819.%E2%80%85%EC%B0%A8%EC%9D%B4%EB%A5%BC%E2%80%85%EC%B5%9C%EB%8C%80%EB%A1%9C ) /
 
 #### 백트래킹 
+[모든 순열](https://github.com/Vida0822/Programmers/tree/8f7bb437bc8f3c3e6e1e028b65727e3101f35347/%EB%B0%B1%EC%A4%80/Silver/10974.%E2%80%85%EB%AA%A8%EB%93%A0%E2%80%85%EC%88%9C%EC%97%B4) / 
+[부분수열의 합](https://github.com/Vida0822/Programmers/tree/8f7bb437bc8f3c3e6e1e028b65727e3101f35347/%EB%B0%B1%EC%A4%80/Silver/1182.%E2%80%85%EB%B6%80%EB%B6%84%EC%88%98%EC%97%B4%EC%9D%98%E2%80%85%ED%95%A9) / 
 
 #### DP 
+[이동하기](https://github.com/Vida0822/Programmers/tree/8f7bb437bc8f3c3e6e1e028b65727e3101f35347/%EB%B0%B1%EC%A4%80/Silver/11048.%E2%80%85%EC%9D%B4%EB%8F%99%ED%95%98%EA%B8%B0) / 
+[가장 긴 증가하는 부분 수열](https://github.com/Vida0822/Programmers/tree/8f7bb437bc8f3c3e6e1e028b65727e3101f35347/%EB%B0%B1%EC%A4%80/Silver/11053.%E2%80%85%EA%B0%80%EC%9E%A5%E2%80%85%EA%B8%B4%E2%80%85%EC%A6%9D%EA%B0%80%ED%95%98%EB%8A%94%E2%80%85%EB%B6%80%EB%B6%84%E2%80%85%EC%88%98%EC%97%B4) / 
+[2×n 타일링](https://github.com/Vida0822/Programmers/tree/8f7bb437bc8f3c3e6e1e028b65727e3101f35347/%EB%B0%B1%EC%A4%80/Silver/11726.%E2%80%852%C3%97n%E2%80%85%ED%83%80%EC%9D%BC%EB%A7%81) / 
+[2×n 타일링 2](https://github.com/Vida0822/Programmers/tree/8f7bb437bc8f3c3e6e1e028b65727e3101f35347/%EB%B0%B1%EC%A4%80/Silver/11727.%E2%80%852%C3%97n%E2%80%85%ED%83%80%EC%9D%BC%EB%A7%81%E2%80%852) / 
+
+
 
 #### 이진탐색
 
-#### Simulation 
+
 
 #### 기타그래프 
+[트리의 부모 찾기](https://github.com/Vida0822/Programmers/tree/8f7bb437bc8f3c3e6e1e028b65727e3101f35347/%EB%B0%B1%EC%A4%80/Silver/11725.%E2%80%85%ED%8A%B8%EB%A6%AC%EC%9D%98%E2%80%85%EB%B6%80%EB%AA%A8%E2%80%85%EC%B0%BE%EA%B8%B0) / 
 
 
+#### Simulation 
+[킹](https://github.com/Vida0822/Programmers/tree/8f7bb437bc8f3c3e6e1e028b65727e3101f35347/%EB%B0%B1%EC%A4%80/Silver/1063.%E2%80%85%ED%82%B9) / 
+[기상캐스터](https://github.com/Vida0822/Programmers/tree/8f7bb437bc8f3c3e6e1e028b65727e3101f35347/%EB%B0%B1%EC%A4%80/Silver/10709.%E2%80%85%EA%B8%B0%EC%83%81%EC%BA%90%EC%8A%A4%ED%84%B0) / 
 
 
 
