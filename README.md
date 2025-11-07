@@ -15,13 +15,14 @@ SCSA 테스트를 위한 python 문제풀이 레포지토리입니다.
 
 <br><br> 
 
-## 시뮬레이션 
+### 시뮬레이션 
 [시뮬레이션-도형다루기](https://github.com/Vida0822/ALGORITHM_SCSA/wiki/%5B%EC%9C%A0%ED%98%95%5D-%EB%8F%84%ED%98%95-%EB%8B%A4%EB%A3%A8%EA%B8%B0) <br> 
 [시뮬레이션-그룹만들기](https://github.com/Vida0822/ALGORITHM_SCSA/wiki/%5B%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98%5D-%EA%B7%B8%EB%A3%B9-%EB%A7%8C%EB%93%A4%EA%B8%B0) <br>
 [시뮬레이션-달팽이](https://github.com/Vida0822/ALGORITHM_SCSA/wiki/%5B%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98%5D-%EB%8B%AC%ED%8C%BD%EC%9D%B4)  <br>
 [시뮬레이션-뱀](https://github.com/Vida0822/ALGORITHM_SCSA/wiki/%5B%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98%5D-%EB%B1%80)  <br>
 [시뮬레이션-삼투압](https://github.com/Vida0822/ALGORITHM_SCSA/wiki/%5B%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98%5D-%EC%82%BC%ED%88%AC%EC%95%95) <br>
 
+---
 <br><br> 
 
 
@@ -95,7 +96,7 @@ SCSA 테스트를 위한 python 문제풀이 레포지토리입니다.
  [연속부분최대곱](https://github.com/Vida0822/Programmers/tree/main/백준/Silver/2670. 연속부분최대곱) 
  [스위치 켜고 끄기](https://github.com/Vida0822/Programmers/tree/main/백준/Silver/1244. 스위치 켜고 끄기)
  
-
+---
 <br><br> 
 
 ## 알고리즘 연습
@@ -333,7 +334,6 @@ SCSA 테스트를 위한 python 문제풀이 레포지토리입니다.
 [ 파이썬 S／W 문제해결 구현］ 6일차 － 그룹 나누기](https://github.com/Vida0822/Programmers/tree/4edea584d079bdcdd35edefd5dadc1842e61cef4/SWEA/D3/5248.%E2%80%85%EF%BC%BB%ED%8C%8C%EC%9D%B4%EC%8D%AC%E2%80%85S%EF%BC%8FW%E2%80%85%EB%AC%B8%EC%A0%9C%ED%95%B4%EA%B2%B0%E2%80%85%EA%B5%AC%ED%98%84%EF%BC%BD%E2%80%856%EC%9D%BC%EC%B0%A8%E2%80%85%EF%BC%8D%E2%80%85%EA%B7%B8%EB%A3%B9%E2%80%85%EB%82%98%EB%88%84%EA%B8%B0) /
 [ ［S／W 문제해결 응용］ 4일차 － 보급로](https://github.com/Vida0822/Programmers/tree/4edea584d079bdcdd35edefd5dadc1842e61cef4/SWEA/D4/1249.%E2%80%85%EF%BC%BBS%EF%BC%8FW%E2%80%85%EB%AC%B8%EC%A0%9C%ED%95%B4%EA%B2%B0%E2%80%85%EC%9D%91%EC%9A%A9%EF%BC%BD%E2%80%854%EC%9D%BC%EC%B0%A8%E2%80%85%EF%BC%8D%E2%80%85%EB%B3%B4%EA%B8%89%EB%A1%9C) /
 
-
 <br>
 
 ### Simulation 
@@ -388,23 +388,24 @@ SCSA 테스트를 위한 python 문제풀이 레포지토리입니다.
 [비숍](https://github.com/Vida0822/Programmers/tree/8f7bb437bc8f3c3e6e1e028b65727e3101f35347/%EB%B0%B1%EC%A4%80/Platinum/1799.%E2%80%85%EB%B9%84%EC%88%8D) /
 [온풍기 안녕!](https://github.com/Vida0822/Programmers/tree/8f7bb437bc8f3c3e6e1e028b65727e3101f35347/%EB%B0%B1%EC%A4%80/Platinum/23289.%E2%80%85%EC%98%A8%ED%92%8D%EA%B8%B0%E2%80%85%EC%95%88%EB%85%95%EF%BC%81) /
 [어항 정리](https://github.com/Vida0822/Programmers/tree/8f7bb437bc8f3c3e6e1e028b65727e3101f35347/%EB%B0%B1%EC%A4%80/Platinum/23291.%E2%80%85%EC%96%B4%ED%95%AD%E2%80%85%EC%A0%95%EB%A6%AC)
+---
+<br><br>
 
-* SWEA :
-[[모의 SW 역량테스트] 미생물 격리](https://github.com/Vida0822/Programmers/tree/195c84231789934faed5d66378c265120da8460f/SWEA/Unrated/2382.%E2%80%85%EF%BC%BB%EB%AA%A8%EC%9D%98%E2%80%85SW%E2%80%85%EC%97%AD%EB%9F%89%ED%85%8C%EC%8A%A4%ED%8A%B8%EF%BC%BD%E2%80%85%EB%AF%B8%EC%83%9D%EB%AC%BC%E2%80%85%EA%B2%A9%EB%A6%AC) /
-[［모의 SW 역량테스트］ 활주로 건설](https://github.com/Vida0822/Programmers/tree/2126643390541fcf0ad16abd554f3142ca63d755/SWEA/Unrated/4014.%E2%80%85%EF%BC%BB%EB%AA%A8%EC%9D%98%E2%80%85SW%E2%80%85%EC%97%AD%EB%9F%89%ED%85%8C%EC%8A%A4%ED%8A%B8%EF%BC%BD%E2%80%85%ED%99%9C%EC%A3%BC%EB%A1%9C%E2%80%85%EA%B1%B4%EC%84%A4) /
-[ [모의 SW 역량테스트] 줄기세포배양](https://github.com/Vida0822/Programmers/tree/31c861cd980fd520e9d334422dd5a70ff20cecf4/SWEA/Unrated/5653.%E2%80%85%EF%BC%BB%EB%AA%A8%EC%9D%98%E2%80%85SW%E2%80%85%EC%97%AD%EB%9F%89%ED%85%8C%EC%8A%A4%ED%8A%B8%EF%BC%BD%E2%80%85%EC%A4%84%EA%B8%B0%EC%84%B8%ED%8F%AC%EB%B0%B0%EC%96%91) /
-[ [모의 SW 역량테스트] 디저트 카페](https://github.com/Vida0822/Programmers/tree/6128eeddfb5de8370489c6afb6ee8f8fde7907ac/SWEA/Unrated/2105.%E2%80%85%EF%BC%BB%EB%AA%A8%EC%9D%98%E2%80%85SW%E2%80%85%EC%97%AD%EB%9F%89%ED%85%8C%EC%8A%A4%ED%8A%B8%EF%BC%BD%E2%80%85%EB%94%94%EC%A0%80%ED%8A%B8%E2%80%85%EC%B9%B4%ED%8E%98) /
-[［모의 SW 역량테스트］ 원자 소멸 시뮬레이션](https://github.com/Vida0822/Programmers/tree/51e0442570bd8ce4ce219ab5098042b56393c449/SWEA/Unrated/5648.%E2%80%85%EF%BC%BB%EB%AA%A8%EC%9D%98%E2%80%85SW%E2%80%85%EC%97%AD%EB%9F%89%ED%85%8C%EC%8A%A4%ED%8A%B8%EF%BC%BD%E2%80%85%EC%9B%90%EC%9E%90%E2%80%85%EC%86%8C%EB%A9%B8%E2%80%85%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98) /
-[[모의 SW 역량테스트] 벽돌 깨기](https://github.com/Vida0822/Programmers/tree/c6b36d62f11ef92fb0a78323e40309b19b9cf9f6/SWEA/Unrated/5656.%E2%80%85%EF%BC%BB%EB%AA%A8%EC%9D%98%E2%80%85SW%E2%80%85%EC%97%AD%EB%9F%89%ED%85%8C%EC%8A%A4%ED%8A%B8%EF%BC%BD%E2%80%85%EB%B2%BD%EB%8F%8C%E2%80%85%EA%B9%A8%EA%B8%B0) /
-[［모의 SW 역량테스트］ 보호 필름](https://github.com/Vida0822/Programmers/tree/11cd0253b1a32b86db40285a97d2e7f6f79919cb/SWEA/Unrated/2112.%E2%80%85%EF%BC%BB%EB%AA%A8%EC%9D%98%E2%80%85SW%E2%80%85%EC%97%AD%EB%9F%89%ED%85%8C%EC%8A%A4%ED%8A%B8%EF%BC%BD%E2%80%85%EB%B3%B4%ED%98%B8%E2%80%85%ED%95%84%EB%A6%84) /
-[ [모의 SW 역량테스트] 등산로 조성](https://github.com/Vida0822/Programmers/tree/8000bdd373d9467556df13f3ff69a1718d30a902/SWEA/Unrated/1949.%E2%80%85%EF%BC%BB%EB%AA%A8%EC%9D%98%E2%80%85SW%E2%80%85%EC%97%AD%EB%9F%89%ED%85%8C%EC%8A%A4%ED%8A%B8%EF%BC%BD%E2%80%85%EB%93%B1%EC%82%B0%EB%A1%9C%E2%80%85%EC%A1%B0%EC%84%B1) /
-[ [모의 SW 역량테스트] 홈 방범 서비스](https://github.com/Vida0822/Programmers/tree/9eb6fa1a5008cd05818ae29537dbd3efd58a096b/SWEA/Unrated/2117.%E2%80%85%EF%BC%BB%EB%AA%A8%EC%9D%98%E2%80%85SW%E2%80%85%EC%97%AD%EB%9F%89%ED%85%8C%EC%8A%A4%ED%8A%B8%EF%BC%BD%E2%80%85%ED%99%88%E2%80%85%EB%B0%A9%EB%B2%94%E2%80%85%EC%84%9C%EB%B9%84%EC%8A%A4) /
-[ [모의 SW 역량테스트] 핀볼 게임](https://github.com/Vida0822/Programmers/tree/af376489caf8f53aa75413fac75b73a50b9dcd69/SWEA/Unrated/5650.%E2%80%85%EF%BC%BB%EB%AA%A8%EC%9D%98%E2%80%85SW%E2%80%85%EC%97%AD%EB%9F%89%ED%85%8C%EC%8A%A4%ED%8A%B8%EF%BC%BD%E2%80%85%ED%95%80%EB%B3%BC%E2%80%85%EA%B2%8C%EC%9E%84) 
+## 모의 SW 역량테스트
+
+[[모의 SW 역량테스트] 미생물 격리](https://github.com/Vida0822/Programmers/tree/195c84231789934faed5d66378c265120da8460f/SWEA/Unrated/2382.%E2%80%85%EF%BC%BB%EB%AA%A8%EC%9D%98%E2%80%85SW%E2%80%85%EC%97%AD%EB%9F%89%ED%85%8C%EC%8A%A4%ED%8A%B8%EF%BC%BD%E2%80%85%EB%AF%B8%EC%83%9D%EB%AC%BC%E2%80%85%EA%B2%A9%EB%A6%AC) <br>
+[[모의 SW 역량테스트] 활주로 건설](https://github.com/Vida0822/Programmers/tree/2126643390541fcf0ad16abd554f3142ca63d755/SWEA/Unrated/4014.%E2%80%85%EF%BC%BB%EB%AA%A8%EC%9D%98%E2%80%85SW%E2%80%85%EC%97%AD%EB%9F%89%ED%85%8C%EC%8A%A4%ED%8A%B8%EF%BC%BD%E2%80%85%ED%99%9C%EC%A3%BC%EB%A1%9C%E2%80%85%EA%B1%B4%EC%84%A4) <br>
+[[모의 SW 역량테스트] 줄기세포배양](https://github.com/Vida0822/Programmers/tree/31c861cd980fd520e9d334422dd5a70ff20cecf4/SWEA/Unrated/5653.%E2%80%85%EF%BC%BB%EB%AA%A8%EC%9D%98%E2%80%85SW%E2%80%85%EC%97%AD%EB%9F%89%ED%85%8C%EC%8A%A4%ED%8A%B8%EF%BC%BD%E2%80%85%EC%A4%84%EA%B8%B0%EC%84%B8%ED%8F%AC%EB%B0%B0%EC%96%91) <br>
+[[모의 SW 역량테스트] 디저트 카페](https://github.com/Vida0822/Programmers/tree/6128eeddfb5de8370489c6afb6ee8f8fde7907ac/SWEA/Unrated/2105.%E2%80%85%EF%BC%BB%EB%AA%A8%EC%9D%98%E2%80%85SW%E2%80%85%EC%97%AD%EB%9F%89%ED%85%8C%EC%8A%A4%ED%8A%B8%EF%BC%BD%E2%80%85%EB%94%94%EC%A0%80%ED%8A%B8%E2%80%85%EC%B9%B4%ED%8E%98) <br>
+[[모의 SW 역량테스트] 원자 소멸 시뮬레이션](https://github.com/Vida0822/Programmers/tree/51e0442570bd8ce4ce219ab5098042b56393c449/SWEA/Unrated/5648.%E2%80%85%EF%BC%BB%EB%AA%A8%EC%9D%98%E2%80%85SW%E2%80%85%EC%97%AD%EB%9F%89%ED%85%8C%EC%8A%A4%ED%8A%B8%EF%BC%BD%E2%80%85%EC%9B%90%EC%9E%90%E2%80%85%EC%86%8C%EB%A9%B8%E2%80%85%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98) <br>
+[[모의 SW 역량테스트] 벽돌 깨기](https://github.com/Vida0822/Programmers/tree/c6b36d62f11ef92fb0a78323e40309b19b9cf9f6/SWEA/Unrated/5656.%E2%80%85%EF%BC%BB%EB%AA%A8%EC%9D%98%E2%80%85SW%E2%80%85%EC%97%AD%EB%9F%89%ED%85%8C%EC%8A%A4%ED%8A%B8%EF%BC%BD%E2%80%85%EB%B2%BD%EB%8F%8C%E2%80%85%EA%B9%A8%EA%B8%B0) <br>
+[[모의 SW 역량테스트] 보호 필름](https://github.com/Vida0822/Programmers/tree/11cd0253b1a32b86db40285a97d2e7f6f79919cb/SWEA/Unrated/2112.%E2%80%85%EF%BC%BB%EB%AA%A8%EC%9D%98%E2%80%85SW%E2%80%85%EC%97%AD%EB%9F%89%ED%85%8C%EC%8A%A4%ED%8A%B8%EF%BC%BD%E2%80%85%EB%B3%B4%ED%98%B8%E2%80%85%ED%95%84%EB%A6%84) <br>
+[[모의 SW 역량테스트] 등산로 조성](https://github.com/Vida0822/Programmers/tree/8000bdd373d9467556df13f3ff69a1718d30a902/SWEA/Unrated/1949.%E2%80%85%EF%BC%BB%EB%AA%A8%EC%9D%98%E2%80%85SW%E2%80%85%EC%97%AD%EB%9F%89%ED%85%8C%EC%8A%A4%ED%8A%B8%EF%BC%BD%E2%80%85%EB%93%B1%EC%82%B0%EB%A1%9C%E2%80%85%EC%A1%B0%EC%84%B1) <br>
+[[모의 SW 역량테스트] 홈 방범 서비스](https://github.com/Vida0822/Programmers/tree/9eb6fa1a5008cd05818ae29537dbd3efd58a096b/SWEA/Unrated/2117.%E2%80%85%EF%BC%BB%EB%AA%A8%EC%9D%98%E2%80%85SW%E2%80%85%EC%97%AD%EB%9F%89%ED%85%8C%EC%8A%A4%ED%8A%B8%EF%BC%BD%E2%80%85%ED%99%88%E2%80%85%EB%B0%A9%EB%B2%94%E2%80%85%EC%84%9C%EB%B9%84%EC%8A%A4) <br>
+[[모의 SW 역량테스트] 핀볼 게임](https://github.com/Vida0822/Programmers/tree/af376489caf8f53aa75413fac75b73a50b9dcd69/SWEA/Unrated/5650.%E2%80%85%EF%BC%BB%EB%AA%A8%EC%9D%98%E2%80%85SW%E2%80%85%EC%97%AD%EB%9F%89%ED%85%8C%EC%8A%A4%ED%8A%B8%EF%BC%BD%E2%80%85%ED%95%80%EB%B3%BC%E2%80%85%EA%B2%8C%EC%9E%84) 
 
   
-
-
-
+---
 <br><br> 
 
 ## 기출문제 (백준)
